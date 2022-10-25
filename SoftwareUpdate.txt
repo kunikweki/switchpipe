@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Move Google Drive to slow tests (#8163)
