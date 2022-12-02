@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
