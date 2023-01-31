@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+New HUB Cloud Training docs page (#8174)
