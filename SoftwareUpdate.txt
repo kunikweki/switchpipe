@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
