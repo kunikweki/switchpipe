@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
