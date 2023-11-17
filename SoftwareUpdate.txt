@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Compress docs images (#8124)
