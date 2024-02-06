@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Improve Coral Edge TPU guide (#8160)
