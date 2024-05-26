@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Faster batch same_shapes (#8851)
